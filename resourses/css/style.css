@@ -1,26 +1,34 @@
 
-body {
-
-  background-color: black;
-}
-h1 {
+   body {
+    background-color: black;
+    font-family: Verdana;
+  }
+  h1 {
+  text-align: center;
   color: white;
-  font-family: Verdana;
   font-weight: normal;
-  font-size: 50px
-  text-align: center;
-}
-h2 {
-  color: white;
-  font-family: Verdana;
-  font-weight: 300;
-  font-size: 42px
-  text-align: center;
-}
-h4 {
+  font-size: 50px;
+  }
+  h2 {
+    text-align: center;
+    color: white;
+    font-weight: 300;
+    font-size: 42px;
+  }
+ .copy {
+  text-align: right;
   color: gray;
-  font-family: Verdana;
   font-weight: 300;
-  font-size: 21px
-  text-align: center;
-}
+  font-size: 21px;
+  }
+
+  .download,
+  a:link, a:visited {
+    text-align: center;
+    color: Aquamarine;
+    font-size: 16px;
+  }
+  .displayed {
+    text-align: center;
+  }
+  
