@@ -15,7 +15,13 @@
     font-weight: 300;
     font-size: 42px;
   }
- .copy {
+  .remember {
+   text-align: center;
+   color: gray;
+   font-weight: 300;
+   font-size: 21px;
+   }
+  .copy {
   text-align: right;
   color: gray;
   font-weight: 300;
@@ -31,4 +37,3 @@
   .displayed {
     text-align: center;
   }
-  
